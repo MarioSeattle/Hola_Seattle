@@ -14,6 +14,12 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- added this from seattle tours in spanish -->
+<meta name="Mario Gomez" content="tours Espa&ntilde;ol Seattle"/>
+<meta name="description" content="Seattle Tours en Espa&ntilde;ol, Hola Seattle, Espa&ntilde;ol seattle, marihuana tour seattle, Latinos Seattle, informacion seattle en Espa&ntilde;ol, festivales seattle, guia en Espa&ntilde;ol seattle "/>
+<meta name="keywords" content="Seattle Espa&ntilde;ol, Spanish Tours, Hola Seattle, Seattle in spanish, City Tours Seattle Espa&ntilde;ol , informacion en Seattle Espa&ntilde;ol, seattle tours en Espa&ntilde;ol, spanish tours seattle" />
+<meta name="google-site-verification" content="To_DwW6yI2owuF77WGDw8_O5c83iyLh1OTk8YgcrRm8" />
+<!-- -->
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
