@@ -20,6 +20,7 @@
 <meta name="keywords" content="Seattle Espa&ntilde;ol, Spanish Tours, Hola Seattle, Seattle in spanish, City Tours Seattle Espa&ntilde;ol , informacion en Seattle Espa&ntilde;ol, seattle tours en Espa&ntilde;ol, spanish tours seattle" />
 <meta name="google-site-verification" content="To_DwW6yI2owuF77WGDw8_O5c83iyLh1OTk8YgcrRm8" />
 <!-- -->
+    
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
@@ -76,12 +77,7 @@
             ?>
             <div class="col-sm-3 col-md-3 pull-right search-navbar">
                 <form class="navbar-form" role="search" method="get" id="searchform" action="<?php bloginfo('home'); ?>" >
-                    <div class="input-group">
-                        <input type="text" id="searchbox" class="form-control" placeholder="Search" name="s" id="s">
-                        <div class="input-group-btn">
-                            <button class="btn btn-default"  id="searchsubmit"  type="submit"><i class="glyphicon glyphicon-search"></i></button>
-                        </div>
-                    </div>
+                 
                 </form>
             </div>
         </div><!--end navbar-colapse-->
